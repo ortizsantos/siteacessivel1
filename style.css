@@ -10,7 +10,7 @@ body {
     }
     
     header {
-    background-color: #ff006a7a;
+    background-color: #00ff2275;
     color: #000;
     padding: 30px;
     }
@@ -24,7 +24,7 @@ body {
     width: 80%;
     max-width: 500px;
     height: auto;
-    border: 5px solid #ff009596;
+    border: 5px solid #00ff4c96;
     margin: 20px auto;
     display: block;
     }
@@ -37,13 +37,13 @@ body {
     width: 80%;
     max-width: 600px;
     height: auto;
-    border: 5px solid #ff00779d;
+    border: 5px solid #00ff739d;
     margin: 20px auto;
     display: block;
     }
     
     :focus {
-    outline: 3px solid #ff006a7e;
+    outline: 3px solid #00ff557e;
     }
     
     @media (max-width: 600px) {
