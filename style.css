@@ -43,7 +43,7 @@ body {
     }
     
     :focus {
-    outline: 3px solid #e5ff0073;
+    outline: 3px solid #ffe600a4;
     }
     
     @media (max-width: 600px) {
